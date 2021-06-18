@@ -67,3 +67,14 @@ nnoremap <silent> <Leader>gf :YcmCompleter FixIt<CR>
 
 colorscheme gruvbox
 highlight Comment cterm=bold
+
+
+" URL's and Links to relevent downloads required to make .vimrc function: 
+"
+" https://github.com/morhetz/gruvbox
+" https://github.com/junegunn/vim-plug
+"
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+"     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+"
+"
